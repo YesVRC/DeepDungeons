@@ -1,0 +1,23 @@
+{
+
+  "name": "deepdungeons:dungeons/debug/start",
+
+  "fallback": "minecraft:empty",
+
+  "elements": [
+    {
+
+      "weight": 1,
+      "element": {
+
+        "location": "deepdungeons:dungeons/debug/road_straight",
+
+        "processors": "minecraft:empty",
+
+        "projection": "rigid",
+
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

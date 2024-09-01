@@ -1,0 +1,64 @@
+{
+  "name": "deepdungeons:dungeons/debug/pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "deepdungeons:dungeons/debug/road_straight",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "deepdungeons:dungeons/debug/road_bend",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "deepdungeons:dungeons/debug/road_cross",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "deepdungeons:dungeons/debug/road_stair",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "deepdungeons:dungeons/debug/road_split",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "deepdungeons:dungeons/debug/road_end",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+
+    }
+  ]
+}

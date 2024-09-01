@@ -1,0 +1,7 @@
+{
+  "item.deepdungeons.test_item": "Test Item",
+  "block.deepdungeons.test_block": "Test Block",
+  "block.deepdungeons.dungeon_portal_block": "Dungeon Portal Block",
+  "block.deepdungeons.dungeon_key": "Dungeon Portal Key",
+  "itemGroup.deepdungeons": "Deep Dungeons"
+}

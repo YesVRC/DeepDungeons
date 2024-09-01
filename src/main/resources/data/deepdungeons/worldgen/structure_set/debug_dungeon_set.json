@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "deepdungeons:debug_dungeon",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "deepdungeons:dungeon_placement",
+    "salt": 2144364762,
+    "spacing": 10,
+    "separation": 5
+  }
+}
