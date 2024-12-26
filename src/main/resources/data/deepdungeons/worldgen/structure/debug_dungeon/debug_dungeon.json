@@ -1,0 +1,17 @@
+{
+  "type": "deepdungeons:dungeon_structure",
+  "biomes": "#minecraft:is_overworld",
+  "step": "raw_generation",
+  "spawn_overrides": {},
+  "start_pool": "deepdungeons:dungeons/debug/start",
+  "size": 40,
+  "terrain_adaptation": "none",
+  "start_height": {
+    "type": "minecraft:constant",
+    "value": {
+      "below_top": 0
+    }
+  },
+  "max_distance_from_center": 128,
+  "use_expansion_hack": true
+}
